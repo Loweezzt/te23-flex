@@ -23,7 +23,8 @@ Vi kan sedan använda klassen på elementen vi vill ha flexbox på.
 
 ```html
 <header class="d-flex">
-  <h1>Header</h1>
+  <h1>Header<
+  /h1>
 </header>
 ```
 
