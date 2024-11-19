@@ -28,3 +28,7 @@ body {
     display: none;
   }
 }
+
+.d-flex {
+  display: flex;
+}
